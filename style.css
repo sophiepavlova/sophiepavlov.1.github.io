@@ -1,0 +1,27 @@
+body {
+  padding: 50px 100px;
+}
+h1 {
+  color: palevioletred;
+  font-size: 30px;
+}
+section {
+  padding: 32px 0;
+}
+p {
+  color: gray;
+}
+li {
+  color: darkslategrey;
+}
+img {
+  border: 22px solid palevioletred;
+}
+button {
+  padding: 12px 24px;
+  background-color: brown;
+  color: white;
+  font-size: 24px;
+  border: none;
+  margin: 24px 0;
+}
